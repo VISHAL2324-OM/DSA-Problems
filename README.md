@@ -7,8 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0001-two-sum/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0001-two-sum/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
