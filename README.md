@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Divide and Conquer
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
