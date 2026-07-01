@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0169-majority-element/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -43,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0169-majority-element/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0875-koko-eating-bananas](https://github.com/VISHAL2324-OM/DSA-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
